@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hello world!!!");
         System.out.println("Hello world!!!");
         System.out.println("Hello new user!!!");
+
+        System.out.println("New changes from master");
     }
 }
